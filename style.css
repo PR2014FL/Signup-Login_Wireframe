@@ -1,0 +1,10 @@
+img {
+    height:100px
+}
+body {
+    margin-left:40vw
+}
+fieldset {
+    border: solid green;
+    width: max-content;
+    }
